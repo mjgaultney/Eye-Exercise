@@ -1,7 +1,8 @@
 # Eye Exercise
 
+<h4>Cheshire Cat<h4>
 
-<h3>To run this project: </h3>
+<h2>To run this project: </h2>
 <li>Download the code</li>
 <li>run the index.html in your favorite web browser.</li>
 <li>move your mouse around the screen</li>
