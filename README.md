@@ -3,8 +3,9 @@
 
 <h3>To run this project: </h3>
 <li>Download the code</li>
-<li>run the index.html in your favorite web browser.
-<li>enjoy the show>/li>
+<li>run the index.html in your favorite web browser.<li>
+<li>move your mouse around the screen</li>
+<li>enjoy the show</li>
 
 This project was to make a pair of eyes that will follow the curser of our mouse around the webpage screen. 
 To operate the project you do not need to do much more than move the mouse around and watch the madhatter (cat) eyes follow your “mouse” around. 
