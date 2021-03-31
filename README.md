@@ -16,4 +16,5 @@ I decided to make the eyes cat like and change the background to make the projec
 <h2>Future updates</h2>
 Eventually, I would like to make the curser turn into a small rodent and add more features to the cat, like ears or a cat tail waiving in the background.
 
+<h2>License</h2>
 This project is under the MIT License. See [this page](https://github.com/mjgaultney/Eye-Exercise/blob/master/LICENSE) for more details.
