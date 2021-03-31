@@ -1,5 +1,7 @@
 # Eye Exercise
 
+![Screenshot](ProjectPortfolio/Eyes.png)
+
 To run this project, download the code and run the index.html in your favorite web browser.
 
 This project was to make a pair of eyes that will follow the curser of our mouse around the webpage screen. 
